@@ -13,7 +13,6 @@ I build full-stack web applications and desktop solutions using Java, J2EE, and 
 
 ## 📌 Featured Projects
 - **CBSE Result Portal** – Full-stack web app with role-based login (J2EE, JPA, MySQL)
-- **Airplane Ticket Reservation System** – Desktop app with JDBC CRUD operations (Java Swing, MySQL)
 - **Tic-Tac-Toe Game** – OOP-based desktop game (Java Swing)
 
 ## 📫 Connect with Me
